@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to My Blank Project's documentation!
+Hi! My name is Ryan!
 ============================================
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
@@ -14,6 +14,7 @@ reprehenderit in voluptate velit esse cillum dolore eu fugiat
 nulla pariatur. Excepteur sint occaecat cupidatat non proident, 
 sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+Check out my dashboards:
 
 .. toctree::
    :maxdepth: 2
